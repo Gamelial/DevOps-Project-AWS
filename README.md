@@ -30,9 +30,17 @@ Default region name [None]: us-east-1 ← or your region
 
 Default output format [None]: json
 
-cd ultimate-devops-project-aws Ls cd eks-install/
+cd ultimate-devops-project-aws 
 
-ls Cd backend ls main.tf
+Ls 
+
+cd eks-install/
+
+ls
+
+Cd backend 
+
+ls main.tf
 
 Change the resource AWS S3 bucket variable to your own unique one
 
